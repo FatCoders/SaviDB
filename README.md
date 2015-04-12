@@ -2,11 +2,11 @@
 **SaviDB**
 -------
 
-> Cordova的轻量级原生数据库。
+> Native data store for Cordova。
 
 
-1. Android基于SharePreference。
-2. iOS基于NSUserDefaults。
+1. SaviDB is base on SharePreference @Android
+2. SaviDB is base on NSUserDefaults @iOS
 
 
 > Javascript API
