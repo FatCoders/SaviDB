@@ -8,7 +8,7 @@
 1. Android基于SharePreference。
 2. iOS基于NSUserDefaults。
 
-----------
+
 > Javascript API
 
  1. SaviDB.get(key, successCallback, errorCallback);
